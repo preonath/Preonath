@@ -54,7 +54,7 @@
      
 - 📑 **Conference:**
    - Exploration of Streptococcus core genome to reveal druggable targets and novel therapeutics against S. pneumoniae’’ 2nd International Conference on Genomics, Nanotech, and Bioengineering-2022 (ICGNB-2022), North South University, Dhaka.
-   - 
+   - Advanced_Bioinformatics_Workshop
 
   
    
