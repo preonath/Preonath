@@ -12,8 +12,9 @@
 - 🔬 **Work Experience on:**
    - Genomics
    - - Genome assembly
-     - Hybrid Assembly 
+     - Hybrid Assembly using Long Reads and Short Reads
      - Mapping and Variant Calling
+     - Genome Annotation
      - Antibiotic Resistance Gene Finding
      - Phylogenetic Tree Construction 
      - Next strain building for COVID 
@@ -34,18 +35,28 @@
    
 - 🛠️ **Technical Skills:**
    - Languages: Bash, Python, C, R, Java
-   - ML & DL: Data analysis using Numpy, Pandas, Matplotlib, Seaborn, Keras, SciKit-Learn, TensorFlow.
+   - ML & DL: Data analysis using Numpy, Pandas, Matplotlib, Seaborn, Keras, SciKit-Learn, and TensorFlow.
    - Molecular Biology & Microbiology Techniques
    - Database Management: SQL, MySQL, Redis
-   - NGS Data Analysis, Microarray analysis
+   - Algorithm and Data Structure
+   - Problem Solving from Leetcode, Hacker Rank, Rosalind 
+   - NGS Data Analysis, Microarray analysis, Transcriptomics
    
 - 💼 **Professional Experience:**
    - Bioinformatician at Child Health Research Foundation, Dhaka
    - Research Fellow at National Gene Bank, National Institute of Biotechnology, Dhaka
    
-- 📑 **Research Publications & Conference:**
-   - Published research on hyperlipidemia, taxonomic classification of virus genome, and more.
+- 📑 **Research Publications:**
+   - Prevalence of hyperlipidemia in controlled and uncontrolled type-2 diabetic patients |  JABET
+   - VirusTaxo: Taxonomic classification of virus genome using multi-class hierarchical classification by k-mer enrichment | Genomics
+   - Exploration of Streptococcus core genome to reveal druggable targets and novel therapeutics against S. pneumoniae | PLOS ONE
    - Presented at conferences like the 2nd International Conference on Genomics, Nanotech, and Bioengineering-2022.
+     
+- 📑 **Conference:**
+   - Exploration of Streptococcus core genome to reveal druggable targets and novel therapeutics against S. pneumoniae’’ 2nd International Conference on Genomics, Nanotech, and Bioengineering-2022 (ICGNB-2022), North South University, Dhaka.
+   - 
+
+  
    
 - 📝 **Masters Thesis:**
    - Title: Development of a disease detection tool from shotgun metagenomic data utilizing algorithms based on K-mer frequency: A gut microbiome study.
