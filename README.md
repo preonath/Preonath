@@ -34,7 +34,7 @@
    - Advanced Deep Learning Techniques
    
 - 🛠️ **Technical Skills:**
-   - Languages: Bash, Python, C, R, Java
+   - Languages: Nextflow, Bash, Python, C, R, Java
    - ML & DL: Data analysis using Numpy, Pandas, Matplotlib, Seaborn, Keras, SciKit-Learn, and TensorFlow.
    - Molecular Biology & Microbiology Techniques
    - Database Management: SQL, MySQL, Redis
