@@ -1,8 +1,7 @@
 ### 👋 Hi, I’m Preonath Chondrow Dev (@Preonath)
    🔬 Research Officer | Child Health Research Foundation (CHRF)
-   📧 Email: preonth@chrfbd.org | preonath.chrf@gmail.com | preonath2838@gmail.com
    
-
+   📧 Email: preonth@chrfbd.org | preonath.chrf@gmail.com | preonath2838@gmail.com
    
    As a Research Officer at the Child Health Research Foundation (CHRF), I leverage bioinformatics tools and computational methods to analyze and interpret large-scale biological datasets. My work directly supports research aimed 
    at improving child health outcomes, with a focus on genomic surveillance, infectious disease diagnostics, and public health initiatives.
