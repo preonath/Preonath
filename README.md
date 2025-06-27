@@ -107,7 +107,6 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 ### 🎓 Teaching Experience
 
----
 
 #### **Child Health Research Foundation (CHRF)**  
 - [**AI in Public Health**](https://www.chrfbd.org/index.php/pages/building-scientists-for-bangladesh/program/560fa6b7-056b-45cf-95f6-3fb17756d29b)
