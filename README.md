@@ -105,6 +105,36 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 ---
 
+### 📑 AI in Public Health Workshop
+- This four-day workshop will explore how Artificial Intelligence (AI) can enhance public health activities. It will focus on:
+  - Disease surveillance
+  - Diagnosis
+  - Treatment
+  - Healthcare delivery  
+- The workshop includes hands-on exercises and case studies.
+
+**Supported By**:  
+These workshops are supported by the **Bill and Melinda Gates Foundation** and various academic and research institutions.
+
+---
+
+### 🧪 Bacterial Genomics & Antimicrobial Resistance Workshop
+- This five-day workshop provides an overview of bacterial genomics and antimicrobial resistance research, covering:
+  - Analyzing bacterial genomes for antimicrobial resistance and virulence factors
+  - Conducting comparative genomic analysis
+  - Applying these techniques in clinical and scientific research
+
+---
+
+### 🧬 Bioinformatics for Biotechnology Research Workshop
+- This workshop focuses on using bioinformatics tools to analyze biological data. Topics include:
+  - Learning Linux OS and Bash scripting for NGS workflows
+  - Using Biopython for NGS data analysis
+  - Performing NGS data processing and interpretation
+
+---
+---
+
 ### 🧪 Training, Workshops & Industry Tour
 - **Illumina Multiomics Showcase & Manufacturing Tour**  
   *Illumina Singapore Northtech* | _June 12, 2025_  
