@@ -105,32 +105,36 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 ---
 
-### 📑 AI in Public Health Workshop
-- This four-day workshop will explore how Artificial Intelligence (AI) can enhance public health activities. It will focus on:
-  - Disease surveillance
-  - Diagnosis
-  - Treatment
-  - Healthcare delivery  
-- The workshop includes hands-on exercises and case studies.
-
-**Supported By**:  
-These workshops are supported by the **Bill and Melinda Gates Foundation** and various academic and research institutions.
+### 🎓 Teaching Experience
 
 ---
 
-### 🧪 Bacterial Genomics & Antimicrobial Resistance Workshop
-- This five-day workshop provides an overview of bacterial genomics and antimicrobial resistance research, covering:
-  - Analyzing bacterial genomes for antimicrobial resistance and virulence factors
-  - Conducting comparative genomic analysis
-  - Applying these techniques in clinical and scientific research
+#### **Child Health Research Foundation (CHRF)**  
+**TEACHING ASSISTANT, BUILDING SCIENTISTS FOR BANGLADESH**  
+*Dhaka, Bangladesh* | 2023‑2024
+
+- **Advanced Next Generation Sequencing**
+  - Linux OS, NGS Data Analysis: Quality checking, quality filtering, genome assembly, genome annotation
+  - Building consensus (CZID), sample sheet preparation for NextSeq2000, data uploading to NCBI and ENA
+
+- **Next‑Generation Pathogen Sequencing Training**
+  - Linux OS, bash scripting, genome assembly, genome mapping, genome annotation, genome submission, MLST prediction
+
+- **AI in Public Health**
+  - Data cleaning and preprocessing, data visualization, architecture of ML and DL libraries: Numpy, Pandas, Keras, TensorFlow
+  - Dengue prediction in Puerto Rico using LSTM and ARIMA
+  - Predicting pneumonia in X‑rays using CNN
+  - Advanced modeling techniques: PyCaret, GRU  
+  - **Supported by:** Bill and Melinda Gates Foundation through the *Democratizing Public Health Modeling Using AI‑based Tools*
 
 ---
 
-### 🧬 Bioinformatics for Biotechnology Research Workshop
-- This workshop focuses on using bioinformatics tools to analyze biological data. Topics include:
-  - Learning Linux OS and Bash scripting for NGS workflows
-  - Using Biopython for NGS data analysis
-  - Performing NGS data processing and interpretation
+#### **Bioinformatics Division, National Institute of Biotechnology (NIB)**  
+**INSTRUCTOR, BIOINFORMATICS DIVISION**  
+*Dhaka, Bangladesh* | 2021
+
+- Delivered training on **Bioinformatics for Biotechnology Research**
+  - Linux OS, bash scripting, and Biopython for NGS data analysis
 
 ---
 ---
