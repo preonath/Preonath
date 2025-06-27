@@ -9,10 +9,14 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 - Process and analyze high-throughput sequencing data  
 - Develop and optimize bioinformatics pipelines  
 ---
+---
+
 
 ### 💼 Professional Experience
 - Ex. Research Fellow at National Gene Bank, [National Institute of Biotechnology](https://nib.gov.bd/), Dhaka
 ---
+---
+
 
 ### 🎓 Educational Background
 - M.Sc. & B.Sc. in [Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, Bangladesh](https://www.sust.edu/departments/bmb)
@@ -23,6 +27,8 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 ---
 ---
+
+
 ### 🔬 Work Experience On
 - **Genomics**
   - Genome assembly  
@@ -44,9 +50,9 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 - **Molecular Dynamic Simulation**  
 
 ---
-
-
 ---
+
+
 
 ### 🛠️ Technical Skills
 - **Languages**: Nextflow, Bash, Python, C, R, Java  
@@ -57,8 +63,8 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 - **Bioinformatics**: NGS Data Analysis, Microarray Analysis, Transcriptomics  
 
 ---
-
 ---
+
 
 ### 📑 Publications
 - **Identification of Potential Biomarkers for 2022 Mpox Virus Infection: A Transcriptomic Network Analysis and Machine Learning Approach**  
@@ -78,6 +84,9 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
   *PLoS One*. 2022 Aug 18;17(8):e0272945. doi: [10.1371/journal.pone.0272945](https://doi.org/10.1371/journal.pone.0272945). PMID: 35980906; PMCID: PMC9387852.  
 
 ---
+---
+
+
 
 ### 📑 Conferences & Poster Presentations
 
@@ -104,6 +113,8 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
   [2nd International Conference on Genomics, Nanotech, and Bioengineering (ICGNB-2022), North South University, Dhaka](https://www.northsouth.edu/upcoming-events/icgnb-2022.html)
 
 ---
+---
+
 
 ### 🎓 Teaching Experience
 
@@ -122,7 +133,6 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 - [**Advanced Next Generation Sequencing**](https://www.chrfbd.org/index.php/pages/building-scientists-for-bangladesh/program/13c4f00f-6201-42df-885c-dca0e2fb948b)
   - Linux OS, NGS Data Analysis: Quality checking, quality filtering, genome assembly, genome annotation
   - Building consensus (CZID), sample sheet preparation for NextSeq2000, data uploading to NCBI and ENA
----
 
 #### **Bioinformatics Division, National Institute of Biotechnology (NIB)**  
 - Delivered training on **Bioinformatics for Biotechnology Research**
@@ -130,6 +140,7 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 ---
 ---
+
 
 ### 🧪 Training, Workshops & Industry Tour
 - **Illumina Multiomics Showcase & Manufacturing Tour**  
@@ -164,8 +175,10 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 
 ---
+---
 
 ### 📫 How to Reach Me
+- [Portfolio](https://preonath.github.io))
 - [LinkedIn](https://www.linkedin.com/in/preonath-shuvo-26aa1416b/)  
 - 📧 Email: preonth@chrfbd.org | preonath.chrf@gmail.com | preonath2838@gmail.com  
 - 📞 Phone: +88 01774351131
