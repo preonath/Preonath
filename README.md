@@ -68,22 +68,22 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 ---
 
 ### 📑 Publications
-- **Debnath, J. P., Hossen, K., Sayed, S. B., Khandaker, M. S., Dev, P. C.,* Sarker, S.,* Hossain, T.**  
-  *Identification of Potential Biomarkers for 2022 Mpox Virus Infection: A Transcriptomic Network Analysis and Machine Learning Approach*.  
+- **Identification of Potential Biomarkers for 2022 Mpox Virus Infection: A Transcriptomic Network Analysis and Machine Learning Approach**  
+  Debnath, J. P., Hossen, K., Sayed, S. B., Khandaker, M. S., Dev, P. C.,* Sarker, S.,* Hossain, T.  
   *Scientific Reports* doi: [10.1038/s41598‑024‑80519‑7](https://doi.org/10.1038/s41598‑024‑80519‑7)  
 
-- **Islam, S., Kabiraj, R., Sarkar, H., Dev, P. C., Tanni, A., Keya, D., Malaker, R. A., M., Tanmoy, A., Saha, S., Hooda, Y., Saha, S.**  
-  *Genome sequences of bacteriophages that infect Salmonella Typhi from Bangladesh*.  
+- **Genome sequences of bacteriophages that infect Salmonella Typhi from Bangladesh**  
+  Islam, S., Kabiraj, R., Sarkar, H., Dev, P. C., Tanni, A., Keya, D., Malaker, R. A., M., Tanmoy, A., Saha, S., Hooda, Y., Saha, S.  
   *Microbiology Resource Announcements* 0:e00447‑24. doi: [10.1128/mra.00447‑24](https://doi.org/10.1128/mra.00447‑24)  
 
-- **Raju, R. S., Nahid, A. A., Dev, P. C., Islam, R.**  
-  *VirusTaxo: Taxonomic classification of viruses from the genome sequence using k‑mer enrichment*.  
+- **VirusTaxo: Taxonomic classification of viruses from the genome sequence using k‑mer enrichment**  
+  Raju, R. S., Nahid, A. A., Dev, P. C., Islam, R.  
   *Genomics*. 2022 Jul;114(4):110414. doi: [10.1016/j.ygeno.2022.110414](https://doi.org/10.1016/j.ygeno.2022.110414). Epub 2022 Jun 17. PMID: 35718090.  
 
-- **Chowdhury, Z. M., Bhattacharjee, A., Ahammad, I., Hossain, M. U., Jaber, A. A., Rahman, A., Dev, P. C., Salimullah, M., Keya, C. A.**  
-  *Exploration of Streptococcus core genome to reveal druggable targets and novel therapeutics against S. pneumoniae*.  
+- **Exploration of Streptococcus core genome to reveal druggable targets and novel therapeutics against S. pneumoniae**  
+  Chowdhury, Z. M., Bhattacharjee, A., Ahammad, I., Hossain, M. U., Jaber, A. A., Rahman, A., Dev, P. C., Salimullah, M., Keya, C. A.  
   *PLoS One*. 2022 Aug 18;17(8):e0272945. doi: [10.1371/journal.pone.0272945](https://doi.org/10.1371/journal.pone.0272945). PMID: 35980906; PMCID: PMC9387852.  
- 
+
 ---
 
 ### 📑 Conferences & Poster Presentations
