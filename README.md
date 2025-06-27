@@ -2,11 +2,13 @@
 🔬 Research Officer | Child Health Research Foundation (CHRF)
 
 As a Research Officer at the Child Health Research Foundation (CHRF), I leverage bioinformatics tools and computational methods to analyze and interpret large-scale biological datasets. My work directly supports research aimed at improving child health outcomes, with a focus on genomic surveillance, infectious disease diagnostics, and public health initiatives. I collaborate with multidisciplinary teams to:
-
+- Single-cell RNA Seq Analysis  
+- Machine Learning & Deep Learning  
+- Genomics
+- Metagenomics
 - Process and analyze high-throughput sequencing data  
 - Develop and optimize bioinformatics pipelines  
-- Interpret results to support evidence-based decisions in pediatric health research  
-- Contribute to publications and open-source tools for global health improvement  
+ 
 
 ---
 
@@ -15,11 +17,7 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 - Comprehensive research and coursework in Deep learning, Single Cell RNA Sequencing Analysis, Genomics, Metagenomics, and more  
 
 ---
-
-### 👀 I’m Interested in
-- Single-cell RNA Seq Analysis  
-- Machine Learning & Deep Learning  
-- Genomics  
+ 
 
 ---
 
