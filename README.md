@@ -64,9 +64,35 @@
    - Exploration of Streptococcus core genome to reveal druggable targets and novel therapeutics against S. pneumoniae | PLOS ONE
    - Presented at conferences like the 2nd International Conference on Genomics, Nanotech, and Bioengineering-2022.
      
-- 📑 **Conference:**
-   - Exploration of Streptococcus core genome to reveal druggable targets and novel therapeutics against S. pneumoniae’’ 2nd International Conference on Genomics, Nanotech, and Bioengineering-2022 (ICGNB-2022), North South University, Dhaka.
-   - Advanced_Bioinformatics_Workshop
+### 📑 Conferences & Poster Presentations
+
+- **Dev, P. C., Malaker, A. R., Keya, D. P., Tanmoy, A. M., Saha, S. K., Saha, S., Hooda, Y.**  
+  *Building a single‑cell atlas of the nasopharyngeal mucosa to investigate RSV and SARS‑CoV‑2 infection.*  
+  _2025 Human Cell Atlas (HCA) General Meeting, Singapore_
+
+- **Keya, D. P., Malakar, A. R., Dev, P. C., Walsh, J. L., Taliaferro, F., Tanvia, L., Tanmoy, A. M., Tang, Y., Juttukonda, L., Langan, E., Frischmann, A., Horwitz, B., Saha, S. K., Hooda, Y., Ordovas‑Montanes, J., Saha, S.**  
+  *Harnessing single cell genomics to understand pathophysiology of RSV infection in the nasal mucosa of children.*  
+  _2025 Human Cell Atlas General Meeting, Singapore_
+
+- **Malakar, A. R., Keya, D. P., Dev, P. C., Tanvia, L., Kanon, N., Hassan, S., Tanmoy, A. M., Islam, M. S., Shalek, A. K., Saha, S. K., Hooda, Y., Saha, S.**  
+  *Impact of PCV‑10 vaccination on the immune cell population of pre‑term infants in rural Bangladesh.*  
+  _2025 Human Cell Atlas General Meeting, Singapore_
+
+- **Dev, P. C., Malaker, A. R., Keya, D. P., Hooda, Y., Saha, S.**  
+  *Building a single‑cell atlas of the nasopharyngeal mucosa to investigate SARS‑CoV‑2 infection.*  
+  _2024 HCA Single‑Cell Omics In‑Person Computational and Experimental Design Workshop, Bangkok, Thailand_
+
+- **Dev, P. C., Tanmoy, A. M., Rahman, A., Saha, S. K., Hooda, Y., Saha, S.**  
+  *Paratype v1.1: Recent updates to the genotyping tool for paratyphoid fever surveillance.*  
+  _13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda_
+
+- **Rehman, A., Dev, P. C., Hossain, M. M., Kazi, E., Goswami, S., Rehman, H., Hooda, Y., Tanmoy, A. M., Saha, S. K., Saha, S.**  
+  *Genomic epidemiology of* *Salmonella enterica* *serovar Paratyphi B isolates from Bangladesh.*  
+  _13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda_
+
+- 🧬 **Exploration of *Streptococcus* core genome to reveal druggable targets and novel therapeutics against *S. pneumoniae***  
+  *2nd International Conference on Genomics, Nanotech, and Bioengineering (ICGNB-2022), North South University, Dhaka.*
+
 
   
    
