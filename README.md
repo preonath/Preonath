@@ -11,15 +11,17 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 ---
 
 ### 💼 Professional Experience
-- Ex. Research Fellow at National Gene Bank, [National Institute of Biotechnology](https://nib.gov.bd/), Dhaka  
+- Ex. Research Fellow at National Gene Bank, [National Institute of Biotechnology](https://nib.gov.bd/), Dhaka
 ---
 
 ### 🎓 Educational Background
-- M.Sc. & B.Sc. in Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, Bangladesh  
+- M.Sc. & B.Sc. in Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, Bangladesh
 - Comprehensive research and coursework in Deep learning, Single Cell RNA Sequencing Analysis, Genomics, Metagenomics, and more  
 
 ---
  
+### 📝 Master's Thesis
+**Title**: Development of a disease detection tool from shotgun metagenomic data utilizing algorithms based on K-mer frequency: A gut microbiome study  
 
 ---
 
@@ -104,13 +106,6 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 ---
 
-### 📝 Master's Thesis
-**Title**: Development of a disease detection tool from shotgun metagenomic data utilizing algorithms based on K-mer frequency: A gut microbiome study  
-
----
-
-### 💞️ I’m Looking to Collaborate
-(Not now)
 
 ---
 
