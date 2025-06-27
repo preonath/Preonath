@@ -85,25 +85,25 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 
 - **Building a Single‑Cell Atlas of the Nasopharyngeal Mucosa to Investigate RSV and SARS‑CoV‑2 Infection**  
-  [2025 Human Cell Atlas (HCA) General Meeting, Singapore](https://www.humancellatlas.org)
+  [2025 Human Cell Atlas (HCA) General Meeting, Singapore](https://events.humancellatlas.org/)
 
 - **Harnessing Single-Cell Genomics to Understand Pathophysiology of RSV Infection in the Nasal Mucosa of Children**  
-  [2025 Human Cell Atlas General Meeting, Singapore](https://www.humancellatlas.org)
+  [2025 Human Cell Atlas General Meeting, Singapore](https://events.humancellatlas.org/)
 
 - **Impact of PCV‑10 Vaccination on the Immune Cell Population of Pre‑Term Infants in Rural Bangladesh**  
-  [2025 Human Cell Atlas General Meeting, Singapore](https://www.humancellatlas.org)
+  [2025 Human Cell Atlas General Meeting, Singapore](https://events.humancellatlas.org/)
 
 - **Building a Single‑Cell Atlas of the Nasopharyngeal Mucosa to Investigate SARS‑CoV‑2 Infection**  
-  [2024 HCA Single‑Cell Omics In‑Person Computational and Experimental Design Workshop, Bangkok, Thailand](https://www.humancellatlas.org)
+  [2024 HCA Single‑Cell Omics In‑Person Computational and Experimental Design Workshop, Bangkok, Thailand](https://www.humancellatlas.org/event/2024-hca-single-cell-omics-in-person-computational-and-experimental-design-workshop/)
 
 - **Paratype v1.1: Recent Updates to the Genotyping Tool for Paratyphoid Fever Surveillance**  
-  [13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda](https://www.ictc.org)
+  [13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda](https://www.sabin.org/events/13th-international-conference-on-typhoid-other-invasive-salmonelloses/)
 
 - **Genomic Epidemiology of *Salmonella enterica* Serovar Paratyphi B Isolates from Bangladesh**  
-  [13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda](https://www.ictc.org)
+  [13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda](https://www.sabin.org/events/13th-international-conference-on-typhoid-other-invasive-salmonelloses/)
 
 - **Exploration of *Streptococcus* Core Genome to Reveal Druggable Targets and Novel Therapeutics Against *S. pneumoniae***  
-  [2nd International Conference on Genomics, Nanotech, and Bioengineering (ICGNB-2022), North South University, Dhaka](h[ttps://www.icgnb2022.com](https://www.northsouth.edu/upcoming-events/icgnb-2022.html))
+  [2nd International Conference on Genomics, Nanotech, and Bioengineering (ICGNB-2022), North South University, Dhaka](https://www.northsouth.edu/upcoming-events/icgnb-2022.html)
 
 ---
 
