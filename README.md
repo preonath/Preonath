@@ -65,11 +65,11 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 ### 📑 Publications
 - **Identification of Potential Biomarkers for 2022 Mpox Virus Infection: A Transcriptomic Network Analysis and Machine Learning Approach**  
   Debnath, J. P., Hossen, K., Sayed, S. B., Khandaker, M. S., Dev, P. C.,* Sarker, S.,* Hossain, T.  
-  *Scientific Reports* doi: [10.1038/s41598‑024‑80519‑7](https://doi.org/10.1038/s41598‑024‑80519‑7)  
+  *Scientific Reports* doi: [10.1038/s41598‑024‑80519‑7](https://doi.org/10.1038/s41598-024-80519-7)  
 
 - **Genome sequences of bacteriophages that infect Salmonella Typhi from Bangladesh**  
   Islam, S., Kabiraj, R., Sarkar, H., Dev, P. C., Tanni, A., Keya, D., Malaker, R. A., M., Tanmoy, A., Saha, S., Hooda, Y., Saha, S.  
-  *Microbiology Resource Announcements* 0:e00447‑24. doi: [10.1128/mra.00447‑24](https://doi.org/10.1128/mra.00447‑24)  
+  *Microbiology Resource Announcements* 0:e00447‑24. doi: [10.1128/mra.00447‑24](https://doi.org/10.1128/mra.00447-24))  
 
 - **VirusTaxo: Taxonomic classification of viruses from the genome sequence using k‑mer enrichment**  
   Raju, R. S., Nahid, A. A., Dev, P. C., Islam, R.  
