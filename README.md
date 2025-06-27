@@ -1,5 +1,5 @@
 ### 👋 Hi, [I’m Preonath Chondrow Dev](https://preonath.github.io)
-🔬 Research Officer | Child Health Research Foundation (CHRF)
+🔬 [Research Officer | Genomics Team | Child Health Research Foundation (CHRF)](https://chrfbd.org/pages/team)
 
 As a Research Officer at the Child Health Research Foundation (CHRF), I leverage bioinformatics tools and computational methods to analyze and interpret large-scale biological datasets. My work directly supports research aimed at improving child health outcomes, with a focus on genomic surveillance, infectious disease diagnostics, and public health initiatives. I collaborate with multidisciplinary teams to:
 - Single-cell RNA Seq Analysis  
