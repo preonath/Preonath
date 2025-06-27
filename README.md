@@ -110,29 +110,22 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 ---
 
 #### **Child Health Research Foundation (CHRF)**  
-**TEACHING ASSISTANT, BUILDING SCIENTISTS FOR BANGLADESH**  
-*Dhaka, Bangladesh* | 2023‑2024
-
-- **Advanced Next Generation Sequencing**
-  - Linux OS, NGS Data Analysis: Quality checking, quality filtering, genome assembly, genome annotation
-  - Building consensus (CZID), sample sheet preparation for NextSeq2000, data uploading to NCBI and ENA
-
-- **Next‑Generation Pathogen Sequencing Training**
-  - Linux OS, bash scripting, genome assembly, genome mapping, genome annotation, genome submission, MLST prediction
-
-- **AI in Public Health**
+- [**AI in Public Health**](https://www.chrfbd.org/index.php/pages/building-scientists-for-bangladesh/program/560fa6b7-056b-45cf-95f6-3fb17756d29b)
   - Data cleaning and preprocessing, data visualization, architecture of ML and DL libraries: Numpy, Pandas, Keras, TensorFlow
   - Dengue prediction in Puerto Rico using LSTM and ARIMA
   - Predicting pneumonia in X‑rays using CNN
   - Advanced modeling techniques: PyCaret, GRU  
   - **Supported by:** Bill and Melinda Gates Foundation through the *Democratizing Public Health Modeling Using AI‑based Tools*
 
+- [**Next‑Generation Pathogen Sequencing Training**](https://www.chrfbd.org/index.php/pages/building-scientists-for-bangladesh/program/8d34f205-e429-47fb-8a9c-bd8a0b103c6a)
+  - Linux OS, bash scripting, genome assembly, genome mapping, genome annotation, genome submission, MLST prediction
+    
+- [**Advanced Next Generation Sequencing**](https://www.chrfbd.org/index.php/pages/building-scientists-for-bangladesh/program/13c4f00f-6201-42df-885c-dca0e2fb948b)
+  - Linux OS, NGS Data Analysis: Quality checking, quality filtering, genome assembly, genome annotation
+  - Building consensus (CZID), sample sheet preparation for NextSeq2000, data uploading to NCBI and ENA
 ---
 
 #### **Bioinformatics Division, National Institute of Biotechnology (NIB)**  
-**INSTRUCTOR, BIOINFORMATICS DIVISION**  
-*Dhaka, Bangladesh* | 2021
-
 - Delivered training on **Bioinformatics for Biotechnology Research**
   - Linux OS, bash scripting, and Biopython for NGS data analysis
 
