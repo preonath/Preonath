@@ -83,26 +83,27 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 ### 📑 Conferences & Poster Presentations
 
-- *Building a single‑cell atlas of the nasopharyngeal mucosa to investigate RSV and SARS‑CoV‑2 infection*  
-  2025 Human Cell Atlas (HCA) General Meeting, Singapore
 
-- *Harnessing single cell genomics to understand pathophysiology of RSV infection in the nasal mucosa of children*  
-  2025 Human Cell Atlas General Meeting, Singapore_
+- **Building a Single‑Cell Atlas of the Nasopharyngeal Mucosa to Investigate RSV and SARS‑CoV‑2 Infection**  
+  [2025 Human Cell Atlas (HCA) General Meeting, Singapore](https://www.humancellatlas.org)
 
-- *Impact of PCV‑10 vaccination on the immune cell population of pre‑term infants in rural Bangladesh*  
-  2025 Human Cell Atlas General Meeting, Singapore_
+- **Harnessing Single-Cell Genomics to Understand Pathophysiology of RSV Infection in the Nasal Mucosa of Children**  
+  [2025 Human Cell Atlas General Meeting, Singapore](https://www.humancellatlas.org)
 
-- *Building a single‑cell atlas of the nasopharyngeal mucosa to investigate SARS‑CoV‑2 infection*  
-  2024 HCA Single‑Cell Omics In‑Person Computational and Experimental Design Workshop, Bangkok, Thailand_
+- **Impact of PCV‑10 Vaccination on the Immune Cell Population of Pre‑Term Infants in Rural Bangladesh**  
+  [2025 Human Cell Atlas General Meeting, Singapore](https://www.humancellatlas.org)
 
-- *Paratype v1.1: Recent updates to the genotyping tool for paratyphoid fever surveillance*  
-  13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda
+- **Building a Single‑Cell Atlas of the Nasopharyngeal Mucosa to Investigate SARS‑CoV‑2 Infection**  
+  [2024 HCA Single‑Cell Omics In‑Person Computational and Experimental Design Workshop, Bangkok, Thailand](https://www.humancellatlas.org)
 
-- *Genomic epidemiology of Salmonella enterica serovar Paratyphi B isolates from Bangladesh*  
-  13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda
+- **Paratype v1.1: Recent Updates to the Genotyping Tool for Paratyphoid Fever Surveillance**  
+  [13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda](https://www.ictc.org)
 
-- *Exploration of Streptococcus core genome to reveal druggable targets and novel therapeutics against S. pneumoniae*  
-  2nd International Conference on Genomics, Nanotech, and Bioengineering (ICGNB-2022), North South University, Dhaka
+- **Genomic Epidemiology of *Salmonella enterica* Serovar Paratyphi B Isolates from Bangladesh**  
+  [13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda](https://www.ictc.org)
+
+- **Exploration of *Streptococcus* Core Genome to Reveal Druggable Targets and Novel Therapeutics Against *S. pneumoniae***  
+  [2nd International Conference on Genomics, Nanotech, and Bioengineering (ICGNB-2022), North South University, Dhaka](https://www.icgnb2022.com)
 
 ---
 
