@@ -103,7 +103,7 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
   [13th International Conference on Typhoid and Other Invasive Salmonelloses, Kigali, Rwanda](https://www.ictc.org)
 
 - **Exploration of *Streptococcus* Core Genome to Reveal Druggable Targets and Novel Therapeutics Against *S. pneumoniae***  
-  [2nd International Conference on Genomics, Nanotech, and Bioengineering (ICGNB-2022), North South University, Dhaka](https://www.icgnb2022.com)
+  [2nd International Conference on Genomics, Nanotech, and Bioengineering (ICGNB-2022), North South University, Dhaka](h[ttps://www.icgnb2022.com](https://www.northsouth.edu/upcoming-events/icgnb-2022.html))
 
 ---
 
