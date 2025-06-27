@@ -20,8 +20,8 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 ---
  
-### 📝 Master's Thesis[(Bioinformatics Division, NIB)](https://nib.gov.bd/)
-- **Title**: Development of a disease detection tool from shotgun metagenomic data utilizing algorithms based on K-mer frequency: A gut microbiome study  
+ #### 📝 Master's Thesis[(Bioinformatics Division, NIB)](https://nib.gov.bd/)
+ - **Title**: Development of a disease detection tool from shotgun metagenomic data utilizing algorithms based on K-mer frequency: A gut microbiome study  
 
 ---
 ---
