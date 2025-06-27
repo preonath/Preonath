@@ -6,10 +6,10 @@
    at improving child health outcomes, with a focus on genomic surveillance, infectious disease diagnostics, and public health initiatives.
    I collaborate with multidisciplinary teams to:
   
-   - Process and analyze high-throughput sequencing data 
-   - Develop and optimize bioinformatics pipelines
-   - Interpret results to support evidence-based decisions in pediatric health research
-   - Contribute to publications and open-source tools for global health improvement
+      - Process and analyze high-throughput sequencing data 
+      - Develop and optimize bioinformatics pipelines
+      - Interpret results to support evidence-based decisions in pediatric health research
+      - Contribute to publications and open-source tools for global health improvement
 
 
 
