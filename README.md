@@ -178,7 +178,7 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 ---
 
 ### 📫 How to Reach Me
-- [Portfolio](https://preonath.github.io))
+- [Portfolio](https://preonath.github.io)
 - [LinkedIn](https://www.linkedin.com/in/preonath-shuvo-26aa1416b/)  
 - 📧 Email: preonth@chrfbd.org | preonath.chrf@gmail.com | preonath2838@gmail.com  
 - 📞 Phone: +88 01774351131
