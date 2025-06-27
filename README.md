@@ -106,6 +106,37 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 ---
 
+### 🧪 Training, Workshops & Industry Tour
+- **Illumina Multiomics Showcase & Manufacturing Tour**  
+  *Illumina Singapore Northtech* | _June 12, 2025_  
+  - Gained insights into Illumina’s cutting-edge multiomics solutions, sequencing technology, and research advancements during the tour and networking session.
+
+- **2024 HCA Single-Cell Omics in-person Computational and Experimental Design Workshop**  
+  *HCA Asia Workshop, Mahidol University, Thailand*  
+  - Participated in advanced single-cell omics training focusing on computational design for single-cell RNA-seq and other high-throughput techniques, Thailand.
+
+- **Nasal Swab Cell Isolation, scRNA Sequencing and Analysis**  
+  *By Ordovas-Montanes Lab, Boston Children’s Hospital at CHRF*  
+  - Trained on advanced methods for nasal swab cell isolation, single-cell RNA sequencing, and subsequent analysis using computational tools like Scanpy and Seurat.
+
+- **SeroCalculator Workshop**  
+  *University of California, Davis & Sabin Vaccine Institute*  
+  - Focused on sero-epidemiology, data analysis, and the application of SeroCalculator to estimate sero-incidence for vaccine efficacy studies.
+
+- **Advanced Bioinformatics Training**  
+  *Wellcome Sanger Institute*  
+  - Received comprehensive training on bioinformatics pipelines, tools for NGS analysis (FastQC, Trimmomatic, Kraken2, SPAdes, Prokka, QUAST, SeroBA), and advanced bioinformatics techniques.
+
+- **Advanced Next Generation Sequencing and Analysis**  
+  *Ministry of Science and Technology, Bangladesh*  
+  - Training focused on the latest NGS technologies, sequence data processing, and analysis tools.
+
+- **Industrial Training (Academic)**  
+  *Bangladesh Council of Scientific and Industrial Research (BCSIR)*  
+  *National Forensic DNA Profiling Laboratory (NFDPL)*  
+  *Delta Pharma Ltd.*  
+  - Gained exposure to industry-level bioinformatics applications and laboratory practices in genomics and molecular diagnostics.
+
 
 ---
 
