@@ -8,8 +8,10 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 - Metagenomics
 - Process and analyze high-throughput sequencing data  
 - Develop and optimize bioinformatics pipelines  
- 
+---
 
+### 💼 Professional Experience
+- Ex. Research Fellow at National Gene Bank, [National Institute of Biotechnology](https://nib.gov.bd/), Dhaka  
 ---
 
 ### 🎓 Educational Background
@@ -43,9 +45,6 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 
 ---
 
-### 🌱 I’m Currently Learning
-- Single-cell RNA Seq Analysis  
-- Advanced Deep Learning Techniques  
 
 ---
 
@@ -58,10 +57,6 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 - **Bioinformatics**: NGS Data Analysis, Microarray Analysis, Transcriptomics  
 
 ---
-
-### 💼 Professional Experience
-- Bioinformatician at Child Health Research Foundation, Dhaka  
-- Research Fellow at National Gene Bank, National Institute of Biotechnology, Dhaka  
 
 ---
 
