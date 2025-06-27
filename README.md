@@ -15,8 +15,8 @@ As a Research Officer at the Child Health Research Foundation (CHRF), I leverage
 ---
 
 ### 🎓 Educational Background
-- M.Sc. & B.Sc. in Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, Bangladesh
-- Comprehensive research and coursework in Deep learning, Single Cell RNA Sequencing Analysis, Genomics, Metagenomics, and more  
+- M.Sc. & B.Sc. in [Biochemistry and Molecular Biology, Shahjalal University of Science and Technology, Bangladesh](https://www.sust.edu/departments/bmb)
+- Courses{Will update soon}
  
  #### 📝 Master's Thesis[(Bioinformatics Division, NIB)](https://nib.gov.bd/)
  - **Title**: Development of a disease detection tool from shotgun metagenomic data utilizing algorithms based on K-mer frequency: A gut microbiome study  
